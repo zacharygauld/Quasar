@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\Quasar\Quasar\bin\Debug\Quasar.exe.config
+C:\Users\Admin\Documents\GitHub\Quasar\Quasar\obj\Debug\Quasar.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Quasar\Quasar\bin\Debug\Quasar.exe
+C:\Users\Admin\Documents\GitHub\Quasar\Quasar\bin\Debug\Quasar.pdb
+C:\Users\Admin\Documents\GitHub\Quasar\Quasar\obj\Debug\Quasar.exe
+C:\Users\Admin\Documents\GitHub\Quasar\Quasar\obj\Debug\Quasar.pdb
