@@ -47,7 +47,7 @@ namespace Quasar
 
         void Play()
         {
-            Random rng = new Random();
+            CryptoRandom rng = new CryptoRandom();
             bool cashOut = false;
             double payout = 0;
             ConsoleKey input;
